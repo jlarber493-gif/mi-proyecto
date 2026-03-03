@@ -1,1 +1,7 @@
 Hola Git
+CHECKLIST DE DOCUMENTACIÓN (Ejercicio 9)
+1. ¿El código tiene comentarios Javadoc (/** ... */)?
+2. ¿Se explican los parámetros de entrada con @param?
+3. ¿Se explica el valor de retorno con @return?
+4. ¿El lenguaje es claro y sin faltas de ortografía?
+5. ¿La documentación está actualizada con la última versión del código?
